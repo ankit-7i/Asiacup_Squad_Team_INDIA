@@ -37,9 +37,6 @@ JavaScript (ES6+)
 Netlify for deployment
 
 
-📄 License
-
-This project is open source and available under the MIT License.
 
 🙏 Acknowledgments
 
