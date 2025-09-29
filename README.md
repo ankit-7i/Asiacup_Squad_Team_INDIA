@@ -15,6 +15,7 @@ This project celebrates the Indian cricket team participating in the Asia Cup to
 
 Complete squad information with player profiles
 
+
 Player statistics and roles
 
 Beautiful UI with responsive design
